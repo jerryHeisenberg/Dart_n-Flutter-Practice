@@ -5,3 +5,6 @@ Android -> Apk
 Window ->exe
 pub:
 App info: Package Dependencies, version
+
+widget:Component.
+UI: ios-> cupertino Android ->Material
