@@ -10,3 +10,14 @@ widget:Component.
 UI: ios-> cupertino Android ->Material
 Scaffold-> To Start
 material.io
+
+
+#SUNDAY
+
+STATEless Widget:
+UI Widget. painted(
+cannot be changed
+STATEful Widget:
+Logical. painted
+can be changed
+Render=> BUild
